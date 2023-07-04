@@ -1,2 +1,2 @@
 # Ejercicios_Python
-Enceuntra los mejores ejercicios para practicar los temas vistos en Python
+Encuentra los mejores ejercicios para practicar los temas vistos en Python
